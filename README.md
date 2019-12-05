@@ -1,8 +1,8 @@
 # korofileheader-
 korofileheader注释模板的常用配置
 ##vscode设置步骤
-*打开用户首选项，选择设置，打开setting.json文件进行配置
-[`参考博客`：](https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE)
+*打开用户首选项，选择设置，打开setting.json文件进行配置  
+[`参考博客`：https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE](https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE)
 ``` bash
   {
     "window.zoomLevel": 1,
